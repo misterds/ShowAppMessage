@@ -1,4 +1,5 @@
-"# ShowMsgApp" 
+
 # ShowMsgApp
-This  app is  for  the beginers beginers  that I  treid  to improuve my  knloge  taht i  start leard Kotlin Android.
-In  this  app I  used  The RecycleView, CardView , Items , ans  how  to send  data  from one Activity  to second  activity and  I learn  how to share  the  context  with diferent app 
+This  app is  for  the beginners beginners  that I  tried  to improve my knowledge that I   start learn Kotlin Android.
+In  this  app I  used  The RecycleView, CardView , Items , and  how  to send  data  from one Activity  to second  activity and  I learn  how to share  the  context  with different app
+
